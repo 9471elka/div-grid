@@ -1,0 +1,59 @@
+img{
+  width: 50px;
+  border-radius: 60%;
+  height: 50px;
+  object-fit: cover;
+}
+.div-2{
+  display: grid;
+  grid-template-columns: 50px 1fr;
+  column-gap: 10px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+} 
+p{
+margin-top: 0px;
+margin-bottom: 0px;
+color: white;
+}
+.tweet_name{
+color: white;
+font-size: 20px;
+margin-bottom: 5px;
+}
+.tweet_tag{
+color: rgb(202, 220, 236);
+}
+.div-1{
+background-color: rgb(104, 214, 31);
+padding-left: 10px;
+padding-bottom: 10px;
+padding-top: 10px;
+display: inline-block;
+}
+.tweet_body{
+  font-family:'Times New Roman', Times, serif;
+  font-size: 18px;
+  width: 300px;
+}
+.tweet-h{
+  color: blue;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.tweet-t,
+.tweet-d{
+  display: inline-block;
+}
+.div0{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 15px;
+}
+.div-01{
+  background-color: rgb(43, 4, 4);
+  padding-left: 10px;
+padding-bottom: 10px;
+padding-top: 10px;
+display: inline-block;
+}
