@@ -49,6 +49,7 @@ display: inline-block;
   display: grid;
   grid-template-columns: 1fr 1fr;
   column-gap: 15px;
+  row-gap: 15px;
 }
 .div-01{
   background-color: rgb(43, 4, 4);
